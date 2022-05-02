@@ -1,0 +1,17 @@
+Em um mundo onde as coisas acontecem cada vez mais rápidas, é importante se 
+organizar para que você não se enrole e acabe atrasando uns 1 ou 7 trabalhos.
+Por isso eu tive a ideia de criar um app de anotações, onde você pode anotar 
+as suas atividades para que você não esqueça delas mais tarde.
+
+O app tem uma interface simples e de fácil uso. Ele fornece funcionalidades 
+para criar, editar, remover e exibir as anotações.
+Na tela principal são exibidas todas as anotações e uma opção de apagar para 
+cada uma. Também é mostrado o botão de criar uma nova anotação.
+Na tela de criação de anotação são mostrados os inputs de nome e descrição 
+da anotação e os botões salvar e cancelar.
+Voltando à tela principal, ao clicar sobre uma anotação são exibidos os 
+detalhes da anotação (nome e descrição). Nessa tela é exibido o botão de 
+editar a anotação, que leva para a tela de edição onde são apresentados os 
+mesmos campos da tela de cadastro, porém, agora preenchidos com os dados 
+da anotação para que o usuário possa editar.
+

@@ -1,0 +1,13 @@
+5 requisitos funcionais
+- O aplicativo deve permitir o cadastro de anotações
+- O aplicatiov deve permitir a exclusão de anotações
+- O aplicativo deve permitir a edição de uma anotação
+- O aplicativo ser capaz de exibir as anotações
+- 
+
+5 requisitos não funcionais
+- O app deve ter uma interface amigável
+- O app deve ser executavel em android, ios e web
+- As operações feitas no app não devem demorar mais de 1 segundo
+- O app deve ser desenvolvido usando Javascript e React Native
+- O app deve ser desenvolvido com uso de técnicas de Clean Code
